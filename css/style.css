@@ -1,0 +1,40 @@
+* {
+    font-family: sans-serif;
+}
+
+.title {
+    color: red;
+}
+
+.description {
+    color: green;
+}
+
+.ingredients {
+    color: rgb(10, 150, 103);
+}
+
+.steps {
+    color: rgb(53, 71, 236);
+}
+
+.paragraph1 {
+    color: rgb(0, 0, 0);
+    font-size: 21px;
+}
+
+.unordered-list {
+    font-size: 18px;
+}
+
+.ordered-list {
+    font-size: 18px;
+}
+
+ol li {
+    font-weight: bold;
+}
+
+ol li span {
+    font-weight: normal;
+}
