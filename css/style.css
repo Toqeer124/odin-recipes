@@ -4,6 +4,9 @@
 
 .title {
     color: red;
+    text-align: center;
+    width: 400px;
+    margin: auto;
 }
 
 .description {
@@ -38,3 +41,40 @@ ol li {
 ol li span {
     font-weight: normal;
 }
+
+.lasagna {
+    display: block;
+    background-color: pink;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    width: 200px;
+    border: 1px solid rgb(172, 72, 72);
+    padding: 50px;
+    margin: 40px auto;
+}
+
+.pizza {
+    display: block;
+    background-color: lightblue;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: none;
+    width: 200px;
+    border: 1px solid rgb(172, 72, 72);
+    padding: 50px;
+    margin: 50px auto;
+}
+
+.scrambled-eggs {
+    display: block;
+    background-color: peachpuff;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    width: 200px;
+    border: 1px solid rgb(172, 72, 72);
+    padding: 50px;
+    margin: 40px auto;
+}
+
